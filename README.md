@@ -1,2 +1,3 @@
 # MySQL_InnerJoin
- Meu primeiro repositório sobre o que tenho aprendido em MySQL.
+A repository to show how to use Joins on MySQL.
+There is Inner and Left joins.
